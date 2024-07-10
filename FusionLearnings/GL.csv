@@ -1,5 +1,5 @@
 #,Module,Title,Sub Title,Learning Video,Fusion Version
-1,Fusion,Top 5 Tips,,,24B onwards
+1,All,Tips & Tricks,Top 5 Tips,Learn Top 5 Fusion Tips ,24B onwards
 2,GL,GL,Overview,Overview of Fusion General Ledger,24B onwards
 3,GL,Journal Capture,Manual Entry,Using Journal Entry Form to load actuals,24B onwards
 4,GL,,Manual Entry,Using Journal Entry Form to load Foreign Currency actuals,24B onwards
@@ -20,8 +20,8 @@
 19,GL,,Execute Recurring Journal Process,Run & Review Recurring Journals,24B onwards
 20,GL,Closing Balance Journals,Overview,Closing Balance Journals Explained,24B onwards
 21,GL,,Execute Closing Balance Journal Process,Run & Review Closing Balance Journals,24B onwards
-22,GL,Period Close,Open Period / Close Period,,24B onwards
-23,GL,,Review Accounting Period,,24B onwards
+22,GL,Period Close,Open Period / Close Period,How to open and close period,24B onwards
+23,GL,,Review Accounting Period,Review Accounting period,24B onwards
 24,GL,Revaluation,Overview,Revaluation Process Explained,24B onwards
 25,GL,,Execute Revaluation Process,Run & Review Revaluation Journals,24B onwards
 26,GL,Translation,Overview,Translation Process Explained,24B onwards

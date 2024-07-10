@@ -1,0 +1,37 @@
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,FA,FA,Overview,Overview of Fusion Fixed Assets Module,24B onwards
+2,FA,Add Assets,Manual Addition,Add Single Asset via Assets page,24B onwards
+1,FA,,,Add Multiple Assets via Spreadsheet,24B onwards
+2,FA,,,How to install Desktop Integration for Excel,24B onwards
+3,FA,,Mass Additions,Add Assets from AP (One or more distribution lines) to FA,24B onwards
+4,FA,,,Add CIP Assets from AP,24B onwards
+5,FA,,,Captialise CIP Asset,24B onwards
+6,FA,,,Explain Accounting Entries for Addition,24B onwards
+7,FA,,,Spit Mass Additions ,24B onwards
+8,FA,,,Merge Mass Additions,24B onwards
+9,FA,,Tax Books,Copy Assets to Tax Book,24B onwards
+10,FA,,,Run Depreciation,24B onwards
+11,FA,,Leased Assets,Create Leased Asset,24B onwards
+12,FA,,,Generate Lease Payment Invoices,24B onwards
+13,FA,,,Lease Termination,24B onwards
+14,FA,,Group Assets,Add Group Assets,24B onwards
+15,FA,,,Group Asset Depreciation,24B onwards
+16,FA,,,Retirements for Group Assets,24B onwards
+17,FA,,Financial Information,Manage Financial Information,24B onwards
+18,FA,,Impair Asset,How to perform Impairement of Assets,24B onwards
+19,FA,,Revalue Asset,How to perform Revalue of Assets,24B onwards
+20,FA,,Retire Assets,How to perform Retirement of Assets,24B onwards
+21,FA,,Perform Physical Inventory,How to Perform Physical Inventory,24B onwards
+22,FA,,Period Close,Run Depreciation & Transfer to GL,24B onwards
+23,FA,,,Close FA Period,24B onwards
+24,FA,,What if Analysis,Perform What if Analysis on Existing Assets,24B onwards
+25,FA,,,Perform What if Analysis on Hypothetical Assets,24B onwards
+26,FA,Reports,Transactions Reports,How to run FA Reports (Asset Additions Report),24B onwards
+27,FA,,,Predefined Reports list,24B onwards
+28,FA,,Reconciliation Report,How to run Asset Register Report ,24B onwards
+29,FA,,,Predefined Reports list,24B onwards
+30,FA,,Group Reports,How to run Group Asset Listing report,24B onwards
+31,FA,,,Predefined Reports list,24B onwards
+32,FA,,Reports for USA,How to run Form 4562 - Depreciation and Amortization Report,24B onwards
+33,FA,,,Predefined Reports list,24B onwards
+34,FA,,Analyses,Create Real Time Analyses on Asset Subject Area Folders and Attributes,24B onwards

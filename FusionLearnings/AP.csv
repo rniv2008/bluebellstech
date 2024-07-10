@@ -1,0 +1,52 @@
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,AP,AP,Overview,Overview of Fusion Accounts Payable,24B onwards
+2,AP,Invoices,Load Invoices,Install ADFI Plugin,24B onwards
+3,AP,,,Load Invoices via Spreadsheet,24B onwards
+4,AP,,,Load One-Time Payment Request via Spreadsheet,24B onwards
+5,AP,,Scanned Invoice Processing,Process Incomplete Invoice,24B onwards
+6,AP,,Manual Invoice,Create Non-PO Invoice ,24B onwards
+7,AP,,,Create Non-PO Debit Memo / Credit Memo,24B onwards
+8,AP,,,Adding Freight / Miscellaneous Line to Invoice,24B onwards
+9,AP,,,Create Foreign Currency Invoice,24B onwards
+10,AP,,Recurring Invoice,Recurring invoice,24B onwards
+11,AP,,Prepayment Invoice,Create Prepayment invoice,24B onwards
+12,AP,,,Apply Prepayment invoice to Supplier Invoice,24B onwards
+13,AP,,Matching Invoice to Purchase Orders,Create PO Invoice (Match in Full),24B onwards
+14,AP,,,Create PO Invoice (Partial Match of PO lines),24B onwards
+15,AP,,,Create PO Debit Memo / Credit Memo,24B onwards
+16,AP,,,Invoice Corrections (Price Correction),24B onwards
+17,AP,,,Invoice Corrections (Quantity Corrections),24B onwards
+18,AP,,,Invoice Corrections (Amount Corrections),24B onwards
+19,AP,,Inquiry Invoices,How to query an Invoice and check status of payment including DFF fields,24B onwards
+20,AP,,Tax,How to Calculate Tax on Invoice ,24B onwards
+21,AP,,,Enter Manual Tax Lines,24B onwards
+22,AP,,Approve Invoice,Approve Invoice,24B onwards
+23,AP,,Route Invoice for Coder,Route Invoice for Coder,24B onwards
+24,AP,,Fixed Asset Invoices ,FA Related PO invoice (Process Asset),24B onwards
+25,AP,,,FA Related PO invoice (CIP Asset),24B onwards
+26,AP,,,FA Related Non-PO Invoice (Asset Invoice),24B onwards
+27,AP,,,FA Related Non-PO Invoice (Expense Invoice),24B onwards
+28,AP,,WHT Tax Invoice,Overview of WHT Tax Invoice Process,24B onwards
+29,AP,,,Create Withholding Tax Invoice,24B onwards
+30,AP,,Invoice Tolerance,Overview of Invoice Tolerance,24B onwards
+31,AP,,Validate Invoice,Validate Invoice,24B onwards
+32,AP,,Invoice Holds and Holds Types,Overview of Holds & Hold Notification,24B onwards
+33,AP,,,Release Holds,24B onwards
+34,AP,Payments,Payment Inquiry,How to query a Payment,24B onwards
+35,AP,,Payment Process Request Template,Create Payment Process Request Template,24B onwards
+36,AP,,Payment Process Request ,Manual Process - Create Payment Process Request (Electronic Payment),24B onwards
+37,AP,,Payment Process Request ,Manual Process - Create Payment Process Request (Check),24B onwards
+38,AP,,Payment Process Request,Automatic - Create Payment Process Request (Electronic Payment),24B onwards
+39,AP,Reports,Invoice Reports,How to run Invoice Reports (Invoice Aging Report),24B onwards
+40,AP,,,Predefined Invoice Reports list,24B onwards
+41,AP,,Payment Reports,How to run Invoice Reports (Payables Payment Register),24B onwards
+42,AP,,,Predefined Payments Reports list,24B onwards
+43,AP,,Withholding Reports,How to run Payables Withholding Tax Report,24B onwards
+44,AP,,,Predefined Payables Withholding Tax Report list,24B onwards
+45,AP,,US 1096 Report,How to run US 1096 Report,24B onwards
+46,AP,,,Predefined US 1096 Report list,24B onwards
+47,AP,,US 1099 Reports,How to run US 1099 Report,24B onwards
+48,AP,,,Predefined US 1099 Report list,24B onwards
+49,AP,Period Close,Payables to Ledger Reconciliation,Run Payables to Ledger Reconciliation Report,24B onwards
+50,AP,,Period Close ,Payables Close Process,24B onwards
+51,AP,OTBI Analyses Report,OTBI Analyses Report,Create Real Time OTBI Analyse Report using Subject Area Folders and Attributes,24B onwards

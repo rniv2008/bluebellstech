@@ -1,0 +1,30 @@
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,Fusion,Top 5 Tips,,,24B onwards
+2,GL,GL,Overview,Overview of Fusion General Ledger,24B onwards
+3,GL,Journal Capture,Manual Entry,Using Journal Entry Form to load actuals,24B onwards
+4,GL,,Manual Entry,Using Journal Entry Form to load Foreign Currency actuals,24B onwards
+5,GL,,Spreadsheet Load,Using Spreadsheet to load actuals,24B onwards
+6,GL,,Spreadsheet Load,Using Spreadsheet to load Statistical journals,24B onwards
+7,GL,,Correct Journals during import,Correct Journals,24B onwards
+8,GL,,FBDI (File load),Using File-Based Data Import (FBDI) to load actuals,24B onwards
+9,GL,,Search & Review Journal,Review Journals from Subledgers,24B onwards
+10,GL,,Reverse Journal,Reverse Journal,24B onwards
+11,GL,,Post Journal,How to Post Journals,24B onwards
+12,GL,,Attachments to Journals,How to attach journal details,24B onwards
+13,GL,,Approve Journals,How to approve Journals,24B onwards
+14,GL,,Autopost Journals,How to perform Auto-Post of Journals,24B onwards
+15,GL,Budgets,Spreadsheet Load,Using Spreadsheet to load budgets,24B onwards
+16,GL,Allocation Journals,Overview,Allocation Journals Explained,24B onwards
+17,GL,,Execute Allocation Journal Process,Run & Review Allocation Journals,24B onwards
+18,GL,Recurring Journals,Overview,Recurring Journals Explained,24B onwards
+19,GL,,Execute Recurring Journal Process,Run & Review Recurring Journals,24B onwards
+20,GL,Closing Balance Journals,Overview,Closing Balance Journals Explained,24B onwards
+21,GL,,Execute Closing Balance Journal Process,Run & Review Closing Balance Journals,24B onwards
+22,GL,Period Close,Open Period / Close Period,,24B onwards
+23,GL,,Review Accounting Period,,24B onwards
+24,GL,Revaluation,Overview,Revaluation Process Explained,24B onwards
+25,GL,,Execute Revaluation Process,Run & Review Revaluation Journals,24B onwards
+26,GL,Translation,Overview,Translation Process Explained,24B onwards
+27,GL,,Execute Translation Process,Run & Review Translation Journals,24B onwards
+28,GL,Intercompany Transactions,Overview,Intercompany Transaction process Explained,24B onwards
+29,GL,,Intercompany journal example,Run & Review automatic intercompany Journals,24B onwards

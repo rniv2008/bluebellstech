@@ -14,7 +14,7 @@
 13,AR,,,Credit Memos,Create Local Currency Credit Memo,24B onwards
 14,AR,,Customer Receipt,Create Receipt,Create Receipt to apply to AR invoice / Transaction,24B onwards
 15,AR,,,,Create an On-Account Cash or Unapplied Cash Receipt,24B onwards
-16,AR,,,,"Create Miscellaneous Receipt for non-invoiced items like Invesments , Interest , Refunds and Stock Sales",24B onwards
+16,AR,,,,Create Miscellaneous Receipt for non-invoiced items like Invesments Interest Refunds and Stock Sales,24B onwards
 17,AR,,,,Understanding applying Receipts and On Account Credit Memos,24B onwards
 18,AR,,Reports,Applied Receipts Register Reports,How to run Applied Receipts Register report,24B onwards
 19,AR,,,,List of Pre-defined reports,24B onwards

@@ -21,7 +21,8 @@ body {
 }
 
 .logo {
-    max-height: 100px;
+    max-height: 50px; /* Adjusted to make the logo smaller */
+    margin-right: 20px; /* Added margin to give some space between the logo and the title */
 }
 
 h1 {

@@ -1,20 +1,20 @@
-#,Module,Serial Number,Title,Sub Title,Learning Video,Fusion Version
-1,AR,,AR,Overview,Overview of Fusion Receivables,24B onwards
-2,AR,,Customer,Customer Inquiry,Understanding Customer record structure and important fields in Customer Setup,24B onwards
-3,AR,,,Create Supplier,Create Customer Record manually,24B onwards
-4,AR,,,Update,Create new Customer Site,24B onwards
-5,AR,,,Update,Bank Details (End date & Add New),24B onwards
-6,AR,,,Update,Payment details,24B onwards
-7,AR,,,Update,End Date Customer,24B onwards
-8,AR,,Invoices,New AR Invoice,Create Local Currency AR Invoice / Receivable Transaction,24B onwards
-9,AR,,,,Create Foreign Currency AR Invoice / Receivable Transaction,24B onwards
-10,AR,,,AutoAccounting Rules,Overview of Autoaccounting rules & Invoice distribution,24B onwards
-11,AR,,,Salesperson,Understanding Saleperson setup & impact on AR Invoice,24B onwards
-12,AR,,,Installments,Understanding Installments and usage in AR Invoice,24B onwards
-13,AR,,,Credit Memos,Create Local Currency Credit Memo,24B onwards
-14,AR,,Customer Receipt,Create Receipt,Create Receipt to apply to AR invoice / Transaction,24B onwards
-15,AR,,,,Create an On-Account Cash or Unapplied Cash Receipt,24B onwards
-16,AR,,,,Create Miscellaneous Receipt for non-invoiced items like Invesments Interest Refunds and Stock Sales,24B onwards
-17,AR,,,,Understanding applying Receipts and On Account Credit Memos,24B onwards
-18,AR,,Reports,Applied Receipts Register Reports,How to run Applied Receipts Register report,24B onwards
-19,AR,,,,List of Pre-defined reports,24B onwards
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,AR,AR,Overview,Overview of Fusion Receivables,24B onwards
+2,AR,Customer,Customer Inquiry,Understanding Customer record structure and important fields in Customer Setup,24B onwards
+3,AR,,Create Supplier,Create Customer Record manually,24B onwards
+4,AR,,Update,Create new Customer Site,24B onwards
+5,AR,,Update,Bank Details (End date & Add New),24B onwards
+6,AR,,Update,Payment details,24B onwards
+7,AR,,Update,End Date Customer,24B onwards
+8,AR,Invoices,New AR Invoice,Create Local Currency AR Invoice / Receivable Transaction,24B onwards
+9,AR,,,Create Foreign Currency AR Invoice / Receivable Transaction,24B onwards
+10,AR,,AutoAccounting Rules,Overview of Autoaccounting rules & Invoice distribution,24B onwards
+11,AR,,Salesperson,Understanding Saleperson setup & impact on AR Invoice,24B onwards
+12,AR,,Installments,Understanding Installments and usage in AR Invoice,24B onwards
+13,AR,,Credit Memos,Create Local Currency Credit Memo,24B onwards
+14,AR,Customer Receipt,Create Receipt,Create Receipt to apply to AR invoice / Transaction,24B onwards
+15,AR,,,Create an On-Account Cash or Unapplied Cash Receipt,24B onwards
+16,AR,,,"Create Miscellaneous Receipt for non-invoiced items like Invesments , Interest , Refunds and Stock Sales",24B onwards
+17,AR,,,Understanding applying Receipts and On Account Credit Memos,24B onwards
+18,AR,Reports,Applied Receipts Register Reports,How to run Applied Receipts Register report,24B onwards
+19,AR,,,List of Pre-defined reports,24B onwards

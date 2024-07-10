@@ -9,21 +9,32 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(csvText => {
             const rows = csvText.split('\n').slice(1); // Skip header row
             const sectionsContainer = document.getElementById('sections-container');
+            const quickLinksList = document.getElementById('quick-links-list');
 
             rows.forEach(row => {
                 const [section, file] = row.split(',');
                 if (section && file) {
-                    createSection(sectionsContainer, section.trim(), file.trim());
+                    createSection(sectionsContainer, quickLinksList, section.trim(), file.trim());
                 }
             });
         })
         .catch(error => console.error('Error fetching the sections CSV file:', error));
 });
 
-function createSection(container, sectionName, csvFile) {
+function createSection(container, quickLinksList, sectionName, csvFile) {
+    const sectionId = sectionName.toLowerCase().replace(/\s+/g, '-');
+    
     const sectionTitle = document.createElement('h1');
     sectionTitle.className = 'section-title';
     sectionTitle.textContent = sectionName;
+    sectionTitle.id = sectionId;
+
+    const quickLink = document.createElement('li');
+    const quickLinkAnchor = document.createElement('a');
+    quickLinkAnchor.href = `#${sectionId}`;
+    quickLinkAnchor.textContent = sectionName;
+    quickLink.appendChild(quickLinkAnchor);
+    quickLinksList.appendChild(quickLink);
 
     const table = document.createElement('table');
     table.innerHTML = `

@@ -1,0 +1,34 @@
+#,Module,Title,SubTitle,Learning Video,Fusion Version
+1,EXP,Expenses,,,
+2,EXP,,Overview,Overview of Expenses Module,24B onwards
+3,EXP,,,,
+4,EXP,Expense Report,,,
+5,EXP,,Personal Setting,,
+6,EXP,,,Update Personal Bank account details for reimbursement,24B onwards
+7,EXP,,,Update other user preferences,24B onwards
+8,EXP,,Manage Delegate,,
+9,EXP,,,Delegate Expense Entry to another person,24B onwards
+10,EXP,,Expense report,,
+11,EXP,,,Create Expense Report,24B onwards
+12,EXP,,,Entering Expense Items,24B onwards
+13,EXP,,,Itemizing Expense Items,24B onwards
+14,EXP,,,Submitting Expense Report,24B onwards
+15,EXP,,,Spit Expenses,24B onwards
+16,EXP,,,Approve Expense report,24B onwards
+17,EXP,,,Withdraw and Resubmit Expense Report,24B onwards
+18,EXP,,,Cancel Expense Report,24B onwards
+19,EXP,,,Review Corporate Card Charges and Create expenses,24B onwards
+20,EXP,,,Auto-Create recurring cash expenses,24B onwards
+21,EXP,,,,
+22,EXP,,Audit ,,
+23,EXP,,,Complete Audit,24B onwards
+24,EXP,,,Reject Expense Reports,24B onwards
+25,EXP,,,Request Additional Information from individuals,24B onwards
+26,EXP,,,Warn individuals,24B onwards
+27,EXP,,,Waive receipts,24B onwards
+28,EXP,,,Add Payment hold and Release payment Hold,24B onwards
+29,EXP,,,Return approved expenses reports to Individuals,24B onwards
+30,EXP,,,Add or Remove Empoyees from the Audit list,24B onwards
+31,EXP,Reports,,,
+32,EXP,,Balance Analysis using OTBI (Oracle Transaction Business Intelligence) Analyses,,
+33,EXP,,,"Create Real Time OTBI Analyses Report using Subject Area , Folders and Attributes",24B onwards

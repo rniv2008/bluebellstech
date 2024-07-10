@@ -1,0 +1,9 @@
+Section,File
+Fusion General Ledger,GL.csv
+Fusion Reporting,Reporting.csv 
+Fusion Accounts Payable,AP.csv
+Fusion Self Service Procurement,iPROC.csv
+Fusion Procurement,PO.csv
+Fusion Fixed Assets,FA.csv
+Fusion Accounts Receivable,AR.csv
+Fusion Expenses,expenses_module.csv

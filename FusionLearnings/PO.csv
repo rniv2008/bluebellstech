@@ -1,0 +1,28 @@
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,PO,Purchasing,Overview,Overview of Fusion Purchasing,24B onwards
+2,PO,Suppliers,Supplier Inquiry,Understanding Supplier record structure and important fields in Supplier Setup,24B onwards
+1,PO,,Create Supplier,Create Supplier Record manually,24B onwards
+2,PO,,Update,"PO Details ( 2 Way . 3 Way , Match Option , PO Email ID)",24B onwards
+3,PO,,Update,Create new Supplier Site,24B onwards
+4,PO,,Update,Bank Details (End date & Add New),24B onwards
+5,PO,,Update,Payment details,24B onwards
+6,PO,,Update,End Date Supplier,24B onwards
+7,PO,Purchase Orders,Types of PO's,Understanding of PO's & Types,24B onwards
+8,PO,,Purchase Order,Create PO from Approved Requisition,24B onwards
+9,PO,,Purchase Order,Approve Purchase Order,24B onwards
+10,PO,,Purchase Order,Dispatch PO to Supplier,24B onwards
+11,PO,,Purchase Order,Amend Purchase Order (Revision),24B onwards
+12,PO,,Purchase Order,Resend PO's PDF to Supplier,24B onwards
+13,PO,,Purchase Order,Close PO,24B onwards
+14,PO,,Purchase Order,Freeze PO,24B onwards
+15,PO,,Purchase Order,Hold PO,24B onwards
+16,PO,,Purchase Order,Retire PO,24B onwards
+17,PO,Agreement,CPA,Create Contract Purchase Agreement,24B onwards
+18,PO,,BPA,Create Blanket Purchase Agreement,24B onwards
+19,PO,Admin,,,24B onwards
+20,PO,,Smart Form,How to Create Smart Form,24B onwards
+21,PO,,Content Zone,Content Zone,24B onwards
+22,PO,,Local Catalog,Local Catalog,24B onwards
+23,PO,,Reassign PO's,Reassign Purchasing Document from One Buyer to Other,24B onwards
+24,PO,Reports,Transaction Analysis using OTBI (Oracle Transaction Business Intelligence) Analyses,Run Predefined OTBI Analyses report,24B onwards
+25,PO,,Content Zone,Create Real Time OTBI Analyses Report using Subject Area Folders and Attributes,24B onwards

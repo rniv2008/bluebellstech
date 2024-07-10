@@ -1,0 +1,19 @@
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,iPROC,Self Service Procurement,Overview,Overview of Self Service Procurement,24B onwards
+2,iPROC,Requisition,Requisition,Understanding of different types of requisition,24B onwards
+2,iPROC,,Requisition,Setting up defaults for Requisition and BU's,24B onwards
+3,iPROC,,Punchout,Create Requisition based on Punchout,24B onwards
+4,iPROC,,Local Catalog,Create Requisition based on Local Catalog,24B onwards
+5,iPROC,,Smart Form,Create Requisition based on Smart Form,24B onwards
+6,iPROC,,Adhoc Requisition,Create Requisition based on Non-Catalog Request,24B onwards
+7,iPROC,,Approve Requisition,Approve Requisiton,24B onwards
+8,iPROC,,Attachments,Attachments,24B onwards
+9,iPROC,,Change Order  / Modify ,Change Order on Requisition,24B onwards
+10,iPROC,,View Requisitions,How to Inquire Requisitions,24B onwards
+11,iPROC,,Cancel Requisition,How to Cancel Requisition,24B onwards
+12,iPROC,,Re-assign Requisition,How to reassign requisition to another person,24B onwards
+13,iPROC,,Save Draft Requisition,How to create draft requisition for future use,24B onwards
+,,,Update Preparer and Requester,Update Preparer and Requester,24B onwards
+14,iPROC,Receipts,Enter Receipt,Enter Receipt for Goods or Service Received,24B onwards
+15,iPROC,,Return,Return receipt,24B onwards
+16,iPROC,,Correct,Correct Receipt entered,24B onwards

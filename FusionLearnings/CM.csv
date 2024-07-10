@@ -1,0 +1,16 @@
+#,Module,Title,Sub Title,Learning Video,Fusion Version
+1,CM,CM,Overview,Overview of Cash Management,24B onwards
+2,CM,Import Bank Statement,Manual Bank Statement,Create Bank Statement,24B onwards
+1,CM,,Automatic Bank Statement,Review automatically Loaded & check for errors,24B onwards
+2,CM,Bank Statement,Manual Reconciliation,How to perform Manual Reconciliation against Journal GL,24B onwards
+3,CM,,,How to perform Manual Reconciliation against Payments & Receipts,24B onwards
+4,CM,,,How to perform Foreign Currency Transaction reconciliation,24B onwards
+5,CM,,External Transaction,Create External Transactions,24B onwards
+6,CM,,,Match against bank statement,24B onwards
+7,CM,,Automatic Reconciliation,Review Automatic Reconciled items,24B onwards
+8,CM,Reports,Bank Statement Reports,How to run Invoice Reports (Bank Statement Report),24B onwards
+9,CM,,,Predefined Reports list,24B onwards
+10,CM,,Cash Transit Report,How to run Invoice Reports (Cash in Transit Report),24B onwards
+11,CM,,,Predefined Reports list,24B onwards
+12,CM,,Cash to General Ledger Report,How to run Invoice Reports (Cash to General Ledger Reconciliation Report),24B onwards
+13,CM,,,Predefined Reports list,24B onwards

@@ -1,0 +1,14 @@
+#,Module,Serial Number,Title,Sub Title,Learning Video,Fusion Version
+1,Reporting,,Reporting ,Introduction,Introduction & Types of Reporting available,24B onwards
+3,Reporting,,Reporting,GL - Smart View,Configure Smart View Plugin for Excel,24B onwards
+4,Reporting,,,,Using Smart View for Adhoc Analysis,24B onwards
+5,Reporting,,,,Define a Report in Smart View with the Query Designer,24B onwards
+6,Reporting,,,,Smart View (Advanced Skills,24B onwards
+7,Reporting,,,GL - Account Group monitoring,How to configure Account Groups to monitor key accounts in General Ledger,24B onwards
+8,Reporting,,,GL - Financial Reporting Center,How to run FRS Report,24B onwards
+9,Reporting,,,GL - Predefined Standard Out of Box Reports,How to run Predefined Reports > Scheduled Processes work area,24B onwards
+10,Reporting,,,,How to run Predefined Reports > Business intelligence (BI) Catalog,24B onwards
+11,Reporting,,,,List of Predefined Reports in Oracle GL,24B onwards
+12,Reporting,,,,How to schedule Financial Reporting Reports,24B onwards
+13,Reporting,,,Balance Analysis using OTBI (Oracle Transaction Business Intelligence) Analyses,"Create Real Time OTBI Analyses Report using Subject Area , Folders and Attributes",24B onwards
+14,Reporting,,,GL - Balance Inquiry,How to inquire on Detail Balances real time,24B onwards

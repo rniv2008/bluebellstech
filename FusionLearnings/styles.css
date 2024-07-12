@@ -24,14 +24,15 @@ body {
 
 .logo {
     max-height: 30px;
-    margin-right: 20px;
+    margin-right: auto;
 }
 
 h1 {
-    text-align: center;
     margin: 0;
     font-size: 2em;
     color: #333;
+    text-align: center;
+    flex: 1;
 }
 
 .intro {
@@ -45,8 +46,15 @@ h1 {
     color: #555;
 }
 
-.sample-intro {
+.sample-container {
+    border: 2px solid #3a87ad;
+    padding: 20px;
+    border-radius: 10px;
     margin-top: 20px;
+}
+
+.sample-intro {
+    margin-top: 0;
 }
 
 .sample-videos {

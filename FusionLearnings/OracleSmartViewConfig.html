@@ -8,24 +8,37 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3, h4 {
+            color: #0056b3;
+        }
+        h1 {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 10px;
+        }
+        ol, ul {
+            margin: 20px 0;
+            padding-left: 40px;
         }
         .step {
-            margin: 20px 0;
+            margin-bottom: 20px;
         }
-        .step1 {
-            color: #1F618D;
-        }
-        .step1-1 {
-            color: #2980B9;
-        }
-        .step1-2 {
-            color: #5499C7;
-        }
-        .step2 {
-            color: #117A65;
-        }
-        .step3 {
-            color: #AF7AC5;
+        .step1, .step1-1, .step1-2, .step2, .step3 {
+            background: #e9f1f7;
+            padding: 10px;
+            border-left: 5px solid #0056b3;
+            margin-bottom: 20px;
         }
         .option {
             margin-left: 20px;
@@ -33,60 +46,67 @@
         .sub-step {
             margin-left: 40px;
         }
+        .highlight {
+            background: #d1e7ff;
+            padding: 5px;
+            border-radius: 3px;
+        }
     </style>
 </head>
 <body>
-    <h1>Oracle Smart View Installation Guide</h1>
+    <div class="container">
+        <h1>Oracle Smart View Installation Guide</h1>
 
-    <div class="step step1">
-        <h2>Step 1: Download & Install Oracle Smart View</h2>
+        <div class="step step1">
+            <h2>Step 1: Download & Install Oracle Smart View</h2>
 
-        <div class="step step1-1">
-            <h3>Step 1.1: Download Oracle Smart View</h3>
+            <div class="step step1-1">
+                <h3>Step 1.1: Download Oracle Smart View</h3>
 
-            <div class="option">
-                <h4>Option 1: Use Oracle Link</h4>
+                <div class="option">
+                    <h4>Option 1: Use Oracle Link</h4>
+                    <ol>
+                        <li>Navigate to the Financial Reporting Center and select the <span class="highlight">Open Workspace for Financial Reports</span> task.</li>
+                        <li>In the Enterprise Performance Management System Workspace, select <span class="highlight">Tools > Install > Smart View</span>.</li>
+                    </ol>
+                </div>
+
+                <div class="option">
+                    <h4>Option 2: Use Search Engine</h4>
+                    <p>In your favourite search engine, type <span class="highlight">"Oracle Smart View for Office Downloads"</span> and click on the Oracle Smart View for Office Downloads link. Follow the instructions.</p>
+                </div>
+            </div>
+
+            <div class="step step1-2">
+                <h3>Step 1.2: Install Oracle Smart View</h3>
                 <ol>
-                    <li>Navigate to the Financial Reporting Center and select the <strong>Open Workspace for Financial Reports</strong> task.</li>
-                    <li>In the Enterprise Performance Management System Workspace, select <strong>Tools > Install > Smart View</strong>.</li>
+                    <li>The Oracle Download Manager tool will be downloaded initially. Using the tool, download the Smart View installation executable.</li>
+                    <li>Double-click on the Smart View executable to install the plugin software.</li>
                 </ol>
             </div>
-
-            <div class="option">
-                <h4>Option 2: Use Search Engine</h4>
-                <p>In your favourite search engine, type <em>"Oracle Smart View for Office Downloads"</em> and click on the Oracle Smart View for Office Downloads link. Follow the instructions.</p>
-            </div>
         </div>
 
-        <div class="step step1-2">
-            <h3>Step 1.2: Install Oracle Smart View</h3>
+        <div class="step step2">
+            <h2>Step 2: Enable Oracle Smart View Plugin</h2>
             <ol>
-                <li>Oracle Download manager tool will be downloaded initially. Using the tool, download the Smart View Installation executable.</li>
-                <li>Double click on Smart View Executable to install the Plugin Software.</li>
+                <li>Once the software is successfully installed, open the Microsoft Excel application and navigate to <span class="highlight">File > Options > Add-ins</span>.</li>
+                <li>Under the Manage section, select <span class="highlight">COM Add-ins</span> and click the <span class="highlight">Go</span> button.</li>
+                <li>Select <span class="highlight">Oracle Smart View for Office</span> and click <span class="highlight">OK</span>.</li>
+            </ol>
+            <p>This step will enable the Smart View Plugin for Excel.</p>
+        </div>
+
+        <div class="step step3">
+            <h2>Step 3: Connect to Fusion Applications</h2>
+            <ol>
+                <li>Open Excel. Navigate to the <span class="highlight">Smart View menu > Options</span>.</li>
+                <li>Click the <span class="highlight">Options</span> button and select the <span class="highlight">Advanced</span> option.</li>
+                <li>Paste the URL in the <span class="highlight">Shared Connections URL</span> field. Click <span class="highlight">OK</span>.</li>
+                <li>Navigate to <span class="highlight">Panel > Shared Connections</span> and the Oracle Applications window will open. Sign in to Fusion Applications.</li>
+                <li>After successful login, navigate to <span class="highlight">Shared Connections > Select > Oracle Essbase</span> > Under Essbase Cluster > Select <span class="highlight">Chart of Accounts Name</span> specific to your organization.</li>
+                <li>Click <span class="highlight">Connect</span>.</li>
             </ol>
         </div>
-    </div>
-
-    <div class="step step2">
-        <h2>Step 2: Enable Oracle Smart View Plugin</h2>
-        <ol>
-            <li>Once the software is successfully installed, open Microsoft Excel Application and navigate to <strong>File > Options > Add-ins</strong>.</li>
-            <li>Under the Manage section, select <strong>COM Add-ins</strong> and click on the Go button.</li>
-            <li>Select <strong>Oracle Smart View For Office</strong> and click OK.</li>
-        </ol>
-        <p>This step will enable Smart View Plugin for Excel.</p>
-    </div>
-
-    <div class="step step3">
-        <h2>Step 3: Connect to Fusion Applications</h2>
-        <ol>
-            <li>Open Excel. Navigate to the <strong>Smart View menu > Options</strong>.</li>
-            <li>Click the Options button and select the Advanced option.</li>
-            <li>Paste the URL in the Shared Connections URL field. Click OK.</li>
-            <li>Navigate to <strong>Panel > Shared Connections</strong> and the Oracle Applications Window will open. Sign in to Fusion Applications.</li>
-            <li>After successful login, navigate to <strong>Shared Connections > Select > Oracle Essbase</strong> > Under Essbase Cluster > Select <strong>Chart of Accounts Name</strong> specific to your organisation.</li>
-            <li>Click On Connect.</li>
-        </ol>
     </div>
 </body>
 </html>

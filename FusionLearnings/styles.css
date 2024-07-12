@@ -56,13 +56,22 @@ h1 {
     align-items: center;
 }
 
-.intro a {
+.video-link::before {
+    content: "🎬 "; /* Video icon */
     color: #3a87ad;
-    text-decoration: none;
-    margin-right: 10px;
 }
 
-.intro a:hover {
+.details-link {
+    margin-left: 10px;
+    font-size: 0.9em;
+    color: #3a87ad;
+}
+
+.details-link::before {
+    content: "📄 "; /* Document icon */
+}
+
+.details-link:hover {
     text-decoration: underline;
 }
 

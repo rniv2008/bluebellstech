@@ -3,10 +3,11 @@ body {
     background-color: #f4f4f9;
     margin: 0;
     padding: 0;
+    line-height: 1.6;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
     background-color: #ffffff;
@@ -16,31 +17,32 @@ body {
 .header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     margin-bottom: 20px;
     flex-wrap: wrap;
 }
 
 .logo {
-    max-height: 30px; /* Adjusted to make the logo even smaller */
-    margin-right: 20px; /* Added margin to give some space between the logo and the title */
+    max-height: 50px;
+    margin-right: 20px;
 }
 
 h1 {
     text-align: center;
     margin: 0;
-    flex-grow: 1;
-    font-size: 1.5em;
+    font-size: 2em;
+    color: #333;
 }
 
 .intro {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .intro p {
     font-size: 1.2em;
-    margin: 0;
+    margin: 10px 0;
+    color: #555;
 }
 
 .sample-videos {
@@ -54,10 +56,15 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+}
+
+.spaced-item {
+    margin-top: 20px;
 }
 
 .video-link::before {
-    content: "🎬 "; /* Video icon */
+    content: "🎬 ";
     color: #3a87ad;
 }
 
@@ -68,7 +75,7 @@ h1 {
 }
 
 .details-link::before {
-    content: "📄 "; /* Document icon */
+    content: "📄 ";
 }
 
 .details-link:hover {
@@ -76,12 +83,17 @@ h1 {
 }
 
 .click-here {
-    max-height: 20px; /* Adjusted to fit the text size */
+    max-height: 20px;
+    margin-left: 10px;
 }
 
 .quick-links {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.quick-links h2 {
+    color: #333;
 }
 
 .quick-links ul {
@@ -96,6 +108,7 @@ h1 {
 .quick-links a {
     color: #3a87ad;
     text-decoration: none;
+    font-size: 1.1em;
 }
 
 .quick-links a:hover {
@@ -106,7 +119,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 40px;
-    table-layout: auto; /* Allow table to adjust width based on content */
+    table-layout: auto;
 }
 
 thead {
@@ -115,10 +128,10 @@ thead {
 }
 
 th, td {
-    padding: 8px 10px; /* Adjusted padding to make the table more compact */
+    padding: 10px 15px;
     text-align: left;
     border: 1px solid #ddd;
-    word-wrap: break-word; /* Ensures words break to fit in small screens */
+    word-wrap: break-word;
 }
 
 tr:nth-child(even) {
@@ -133,6 +146,7 @@ tr:hover {
     text-align: center;
     margin-top: 40px;
     margin-bottom: 20px;
+    color: #333;
 }
 
 @media (max-width: 768px) {
@@ -141,9 +155,12 @@ tr:hover {
         align-items: center;
     }
 
+    .logo {
+        margin-bottom: 10px;
+    }
+
     h1 {
-        margin-top: 10px;
-        font-size: 1.2em;
+        font-size: 1.5em;
     }
 
     .sample-videos li {

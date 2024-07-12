@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 20px auto;
     padding: 20px;
     background-color: #ffffff;
@@ -23,7 +23,7 @@ body {
 }
 
 .logo {
-    max-height: 50px;
+    max-height: 30px;
     margin-right: 20px;
 }
 
@@ -43,6 +43,10 @@ h1 {
     font-size: 1.2em;
     margin: 10px 0;
     color: #555;
+}
+
+.sample-intro {
+    margin-top: 20px;
 }
 
 .sample-videos {
